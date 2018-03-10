@@ -18,4 +18,4 @@ For user's persuation; Auto-correct, Suggestions and word cloud has been made.
 
 5. Make sure you are connected to the internet and disabled the firewall. As enabling firewall may cause dependencies issues.
 
-6. Install stanford lib from https://1drv.ms/f/s!AiqDnFnoVclDgfZIYLiLmWF1BiaRig and add it to the project under ( Web Content -> WEB-INF -> lib)
+6. Install Stanford NLP lib from https://1drv.ms/f/s!AiqDnFnoVclDgfZIYLiLmWF1BiaRig and add it to the project under ( Web Content -> WEB-INF -> lib)
