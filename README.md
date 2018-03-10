@@ -3,7 +3,7 @@
 Legal Document Search Engine is a web base search engine which is used for searching legal contents and legislation.
 It is developed in Java using JSPs and Servlet.
 User provides a query, by applying IR techniques, a set of results is displayed to the user based upon there relevance.
-Two models of Information Retireival(IR) techniques are used, BM25 and TF-IDF.
+Two models of Information Retireival (IR) techniques are used, BM25 and TF-IDF.
 For user's persuation; Auto-correct, Suggestions and word cloud has been made.
 
 # Installation
