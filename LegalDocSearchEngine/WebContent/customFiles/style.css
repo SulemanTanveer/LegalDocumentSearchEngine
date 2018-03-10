@@ -1,0 +1,109 @@
+
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+	table.dataTable tbody td
+{
+border-top: 0px solid #ffffff ;
+}
+ html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.demo {
+  margin: 0 auto;
+  padding-top: 64px;
+  max-width: 640px;
+  width: 94%;
+}
+
+.demo h1 {
+  margin-top: 0;
+}
+
+/**
+ * Footer Styles
+ */
+ 
+    /* Add a gray background color and some padding to the footer */
+    
+	.footer2 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: black;
+  color:white;
+  text-align: center;
+   height: 60px;
+}
+     #header {
+      background-color: black;
+      padding: 5px;
+	   height: 70px;
+	   color: white;
+    }
+  h4 {
+       color: #808080;
+    }
+   #search_param{
+    height: 34px;
+   margin-bottom: 0;
+      border-radius: 0;
+	   background-color: white;
+}
+   #imgDiv{
+    height: 600px;
+    width: 600px;
+   
+}
+
+
+.ui-autocomplete 
+  {
+   height: 200px; overflow-y: scroll; overflow-x: hidden;
+   }
+.ui-autocomplete-loading {
+    background: white url("customFiles/loadingImage.gif") right center no-repeat;
+  }
+  
+  .loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #000000;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+/* .imgDiv { display:none;}
+ */
