@@ -5,6 +5,9 @@ It is developed in Java using JSPs and Servlet.
 User provides a query, by applying IR techniques, a set of results is displayed to the user based upon there relevance.
 Two models of Information Retireival (IR) techniques are used, BM25 and TF-IDF.
 For user's persuation; Auto-correct, Suggestions and word cloud has been made.
+This was my final year project. It was a research based project in which experiments were made and different findings were concluded. One research publication is also under preparation. Link to the initial project report is given as under.
+https://1drv.ms/b/s!AiqDnFnoVclDgd5rN3IqhEV6kX4kBw 
+
 
 # Installation
 
